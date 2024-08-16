@@ -1,12 +1,12 @@
 # Hi there, I'm Himangshu Shekhar Baruah! 👋
 
-**Data Analyst | Upcoming Master's Graduate in Applied Computer Science**  
+**Data Analyst | Master's Graduate of Applied Computer Science**  
 Montreal, Canada | [LinkedIn](https://www.linkedin.com/in/hsbaruah1997) | [Portfolio](https://datascienceportfol.io/raemonx) | [Email](mailto:hsbaruah1997@gmail.com)
 
 ---
 
 ## 🔍 About Me  
-I am a dedicated Data Analyst with over 3 years of experience in Data Analytics and IT. Currently, I am completing my Master's degree in Applied Computer Science from Concordia University. My passion lies in transforming data into actionable insights and driving business decisions. I have a strong background in tools like Power BI, SQL, and Microsoft Power Platform, which I use to deliver high-impact analytics solutions.
+I am a dedicated Data Analyst with over 3 years of experience in Data Analytics and IT. Currently, I hold a Master's degree in Applied Computer Science from Concordia University. My passion lies in transforming data into actionable insights and driving business decisions. I have a strong background in tools like Power BI, SQL, and Microsoft Power Platform, which I use to deliver high-impact analytics solutions.
 
 ---
 
