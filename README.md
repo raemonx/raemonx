@@ -53,6 +53,8 @@ I am a dedicated Data Analyst with over 3 years of experience in Data Analytics 
 
 ## 📚 Certifications
 
+- **PL-300: Power BI Data Analyst**  
+  *Microsoft | Nov 2024 - Nov 2025*
 - **AZ-900: Azure Fundamentals**  
   *Microsoft | Jan 2022 - Present*
 
