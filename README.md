@@ -62,8 +62,8 @@ I am a dedicated Data Analyst with over 3 years of experience in Data Analytics 
 
 ## 🚀 Projects
 
-- **Plant Disease Detection Using Deep Learning**  
-  Led a research study using advanced CNNs (Google Net, MobileNetV2) for plant disease detection, improving agricultural productivity.
+- **Montreal Public Transit Power BI dashboard**  
+  Designed an interactive Power BI dashboard analyzing 215 transit routes, 249,020 trips, and 8,979 stops, with a focus on accessibility and operational efficiency.
 
 - **Bixi Data Analytics**  
   Developed an end-to-end data engineering pipeline for Montreal's bike-sharing data, creating an interactive Power BI dashboard for real-time analysis.
@@ -71,6 +71,8 @@ I am a dedicated Data Analyst with over 3 years of experience in Data Analytics 
 - **Twitch Stream Data Analytics ETL Pipeline**  
   Built an ETL pipeline to process Twitch stream data, enhancing data-driven decision-making with AWS S3 and Apache Airflow.
 
+- **Plant Disease Detection Using Deep Learning**  
+  Led a research study using advanced CNNs (Google Net, MobileNetV2) for plant disease detection, improving agricultural productivity.
 ---
 
 ## 📄 Publications
